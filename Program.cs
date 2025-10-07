@@ -1,4 +1,3 @@
-﻿using System;
 
 class Calculator
 {
@@ -6,7 +5,7 @@ class Calculator
     {
         bool continueCalculate = true;
 
-        while (continueCalculate == true)
+        while (continueCalculate)
         {
             try
             {
